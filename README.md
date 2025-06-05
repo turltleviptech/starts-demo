@@ -1,2 +1,2 @@
 # starts-demo
-it is a starting my journey on the github
+it is a starting my journey on the github.
